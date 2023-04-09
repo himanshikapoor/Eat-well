@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Test1",
+        "address": "Main Street, Test1",
+        "cuisine": "French",
+        "website": "https://mytest.com",
+        "description": "Its amazing indeed!",
+        "id": "ca3c7b79-6cbc-4869-bdbf-b16790251d83"
+    },
+    {
+        "name": "Green Leaf",
+        "address": "Main Street, Test2",
+        "cuisine": "Indian",
+        "website": "https://greenLeaf.com",
+        "description": "It has best indian food",
+        "id": "be5c58fc-e8c6-4c62-8240-79c761a641b3"
+    }
+]
